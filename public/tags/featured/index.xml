@@ -15,5 +15,33 @@
       <guid>//localhost:1313/blog/year1notes/</guid>
       <description>Advice</description>
     </item>
+    <item>
+      <title>MedTech IP</title>
+      <link>//localhost:1313/projects/medtechip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/medtechip/</guid>
+      <description>CSF diagnostics</description>
+    </item>
+    <item>
+      <title>i-Teams consulting project</title>
+      <link>//localhost:1313/projects/iteams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/iteams/</guid>
+      <description>IfM</description>
+    </item>
+    <item>
+      <title>Medical degree</title>
+      <link>//localhost:1313/experience/medicine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/experience/medicine/</guid>
+      <description>Cambridge University</description>
+    </item>
+    <item>
+      <title>Management Studies degree</title>
+      <link>//localhost:1313/experience/management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/experience/management/</guid>
+      <description>Cambridge JBS</description>
+    </item>
   </channel>
 </rss>
