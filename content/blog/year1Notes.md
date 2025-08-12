@@ -1,5 +1,5 @@
 ---
-title: "Year 1 cambridge medicine"
+title: "Cambridge Medicine"
 description: "General Advice"
 dateString: 12th August
 draft: false
