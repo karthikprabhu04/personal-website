@@ -7,8 +7,8 @@ tags: ["featured", "MedTech"]
 showToc: false
 weight: 203
 cover:
-    image: "blog/template.jpeg"
+    image: "projects/medtechIP.png"
 --- 
-# Title
+## The MedTech Innovation Programme
 
-MedTech Foundation project
+As part of the Innovation Programme 2024/25, we aim to design a low-cost, bedside diagnostic solution for cerebrospinal fluid (CSF) analysis. This device will improve accessibility, speed, and accuracy of CSF testing, enhancing patient care, especially in resource-limited settings.

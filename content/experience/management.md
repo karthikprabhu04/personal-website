@@ -6,8 +6,10 @@ draft: false
 tags: ["featured", "Management"]
 showToc: false
 weight: 303
+cover:
+    image: "experience/JudgeBusinessSchool.jpg"
 --- 
 
-### Description
+Intercalation in Management Studies Tripos.
 
-JBS
+Modules include: Organisational Behaviour, Quantitative Methods, Economics of Firms & Markets, Accounting & Finance, Operations Management, Marketing, Negotiation workshops and Consulting projects.

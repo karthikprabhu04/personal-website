@@ -2,7 +2,7 @@
 title: "i-Teams consulting project"
 description: "IfM"
 dateString: Jan 2019 - Mar 2019
-draft: false
+draft: true
 tags: ["featured", "Healthtech"]
 showToc: false
 weight: 208
