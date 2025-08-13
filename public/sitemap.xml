@@ -2,15 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/year1notes/</loc>
+    <loc>http://localhost:1313/notes/year1notes/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/medtechip/</loc>
   </url><url>
     <loc>http://localhost:1313/experience/medicine/</loc>
   </url><url>
     <loc>http://localhost:1313/experience/management/</loc>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
@@ -25,6 +23,8 @@
     <loc>http://localhost:1313/tags/medicine/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/medtech/</loc>
+  </url><url>
+    <loc>http://localhost:1313/notes/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
   </url><url>
