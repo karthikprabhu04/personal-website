@@ -7,7 +7,7 @@ tags: ["featured"]
 showToc: false
 weight: 101
 cover:
-    image: "blog/template.jpeg" 
+    image: "notes/template.jpeg" 
 ---
 
 
