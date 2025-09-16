@@ -7,7 +7,7 @@ tags: ["featured"]
 showToc: false
 weight: 101
 cover:
-    image: "notes/template.jpeg" 
+    image: "notes/CambridgeEcosystemBanner.png" 
 ---
 
 # Why It Matters

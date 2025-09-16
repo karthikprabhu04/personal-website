@@ -8,7 +8,7 @@ tags: ["Healthtech"]
 showToc: false
 weight: 208
 cover:
-    image: "blog/template.jpeg"
+    image: "notes/iTeamsBanner.png"
 --- 
 # What is i-Teams?
 
