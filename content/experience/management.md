@@ -1,7 +1,7 @@
 ---
-title: "Management Studies degree"
-description: "Cambridge JBS"
-dateString: June 2021 - Aug 2022
+title: "Management Studies"
+description: "Cambridge Judge Business School"
+dateString: October 2024 - July 2025
 draft: false
 tags: ["featured", "Management"]
 showToc: false
@@ -10,6 +10,17 @@ cover:
     image: "experience/JudgeBusinessSchool.jpg"
 --- 
 
-Intercalation in Management Studies Tripos.
+Intercalated in Management Studies Tripos at Judge Business School.
 
-Modules include: Organisational Behaviour, Quantitative Methods, Economics of Firms & Markets, Accounting & Finance, Operations Management, Marketing, Negotiation workshops and Consulting projects.
+### Modules and Results
+
+| **Modules** | **Results** |
+| --- | --- |
+| Organisational Behaviour & Marketing | 72.25% |
+| Quantitative methods and operations management | 80.50% |
+| Economics with Accounting and finance | 81.25% |
+| Business innovation in a Digital Age & Future of Work | 71.28% |
+| Negotiations Workshop | 73.00% |
+| Submission of a project report | 72.80% |
+
+Overall result: **1st Class with Distinction (75.63%)** - Ranked 2nd in Cohort (2/44)
