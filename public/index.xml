@@ -2,51 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Karthik Prabhu</title>
-    <link>http://localhost:1313/</link>
+    <link>http://karthikprabhu.me/</link>
     <description>Recent content on Karthik Prabhu</description>
     <generator>Hugo -- 0.148.2</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://karthikprabhu.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cambridge Medicine</title>
-      <link>http://localhost:1313/notes/year1notes/</link>
+      <link>http://karthikprabhu.me/notes/year1notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/year1notes/</guid>
+      <guid>http://karthikprabhu.me/notes/year1notes/</guid>
       <description>General Advice</description>
     </item>
     <item>
       <title>How I’m self-learning Software Engineering &amp; AI/ML</title>
-      <link>http://localhost:1313/notes/swe/</link>
+      <link>http://karthikprabhu.me/notes/swe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/swe/</guid>
+      <guid>http://karthikprabhu.me/notes/swe/</guid>
       <description>Harvard CS50, The Odin Project, Kaggle</description>
     </item>
     <item>
-      <title>MedTech Innovation Program</title>
-      <link>http://localhost:1313/projects/medtechip/</link>
+      <title>The Cambridge Entreprenurial Ecosystem</title>
+      <link>http://karthikprabhu.me/notes/cambridgeecosystem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/medtechip/</guid>
+      <guid>http://karthikprabhu.me/notes/cambridgeecosystem/</guid>
+      <description>Explore innovation, building ventures, and creating lasting impact</description>
+    </item>
+    <item>
+      <title>MedTech Innovation Program</title>
+      <link>http://karthikprabhu.me/projects/medtechip/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://karthikprabhu.me/projects/medtechip/</guid>
       <description>Designing low-cost, bedside cerebrospinal fluid (CSF) diagnostic devices</description>
     </item>
     <item>
       <title>i-Teams consulting project</title>
-      <link>http://localhost:1313/projects/iteams/</link>
+      <link>http://karthikprabhu.me/projects/iteams/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/iteams/</guid>
+      <guid>http://karthikprabhu.me/projects/iteams/</guid>
       <description>Helping inventors commercialise emerging technologies</description>
     </item>
     <item>
       <title>Medical degree</title>
-      <link>http://localhost:1313/experience/medicine/</link>
+      <link>http://karthikprabhu.me/experience/medicine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/medicine/</guid>
+      <guid>http://karthikprabhu.me/experience/medicine/</guid>
       <description>Cambridge University</description>
     </item>
     <item>
       <title>Management Studies degree</title>
-      <link>http://localhost:1313/experience/management/</link>
+      <link>http://karthikprabhu.me/experience/management/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/management/</guid>
+      <guid>http://karthikprabhu.me/experience/management/</guid>
       <description>Cambridge JBS</description>
     </item>
   </channel>
