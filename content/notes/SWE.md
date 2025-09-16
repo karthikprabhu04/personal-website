@@ -1,5 +1,5 @@
 ---
-title: "How I’m Teaching Myself Software Engineering and AI/ML"
+title: "How I’m self-learning Software Engineering & AI/ML"
 description: "Harvard CS50, The Odin Project, Kaggle"
 dateString: 16th September
 draft: false

@@ -4,7 +4,11 @@
   <url>
     <loc>http://localhost:1313/notes/year1notes/</loc>
   </url><url>
+    <loc>http://localhost:1313/notes/swe/</loc>
+  </url><url>
     <loc>http://localhost:1313/projects/medtechip/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/iteams/</loc>
   </url><url>
     <loc>http://localhost:1313/experience/medicine/</loc>
   </url><url>
@@ -15,6 +19,8 @@
     <loc>http://localhost:1313/experience/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/featured/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/healthtech/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
