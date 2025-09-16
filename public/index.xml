@@ -22,18 +22,18 @@
       <description>Harvard CS50, The Odin Project, Kaggle</description>
     </item>
     <item>
-      <title>MedTech IP</title>
+      <title>MedTech Innovation Program</title>
       <link>http://localhost:1313/projects/medtechip/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/medtechip/</guid>
-      <description>CSF diagnostics</description>
+      <description>Designing low-cost, bedside cerebrospinal fluid (CSF) diagnostic devices</description>
     </item>
     <item>
       <title>i-Teams consulting project</title>
       <link>http://localhost:1313/projects/iteams/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/iteams/</guid>
-      <description>IfM</description>
+      <description>Helping inventors commercialise emerging technologies</description>
     </item>
     <item>
       <title>Medical degree</title>

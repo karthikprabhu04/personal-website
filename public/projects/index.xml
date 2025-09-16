@@ -8,18 +8,18 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>MedTech IP</title>
+      <title>MedTech Innovation Program</title>
       <link>http://localhost:1313/projects/medtechip/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/medtechip/</guid>
-      <description>CSF diagnostics</description>
+      <description>Designing low-cost, bedside cerebrospinal fluid (CSF) diagnostic devices</description>
     </item>
     <item>
       <title>i-Teams consulting project</title>
       <link>http://localhost:1313/projects/iteams/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/iteams/</guid>
-      <description>IfM</description>
+      <description>Helping inventors commercialise emerging technologies</description>
     </item>
   </channel>
 </rss>

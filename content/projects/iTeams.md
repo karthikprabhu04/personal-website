@@ -1,7 +1,7 @@
 ---
 title: "i-Teams consulting project"
-description: "IfM"
-dateString: Jan 2019 - Mar 2019
+description: "Helping inventors commercialise emerging technologies"
+dateString: Jan 2025 - Mar 2025
 draft: false
 excludeFromSearch: false
 tags: ["Healthtech"]
@@ -32,3 +32,5 @@ Workshops covered design thinking, market selection, and international developme
 # Final remarks
 
 If you’re interested in consulting, i-Teams is one of the best opportunities in Cambridge. Choose a project aligned with your interests (e.g. healthtech) and you’ll gain skills and experience that go well beyond the program.
+
+For more detail on my syllabus, please click [**here**](/notes/iTeamsOverview.pdf)
