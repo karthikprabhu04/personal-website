@@ -3,7 +3,7 @@ title: "Medicine"
 description: "University of Cambridge"
 dateString: October 2022 - July 2028
 draft: false
-tags: ["featured", "Medicine"]
+tags: ["Medicine"]
 showToc: false
 weight: 301
 cover:
