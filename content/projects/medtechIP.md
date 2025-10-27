@@ -7,7 +7,7 @@ tags: ["MedTech"]
 showToc: false
 weight: 203
 cover:
-    image: "projects/medtechIP.png"
+    image: "projects/medtechIPfiles/medtechIP.png"
 --- 
 # My Experience in the MedTech Foundation Innovation Programme
 
@@ -15,14 +15,14 @@ After attending several MedTech and biotech conferences, hackathons, and worksho
 
 To gain that experience, I applied to the [Cambridge MedTech Foundation Innovation Programme](https://cam.medtechfoundation.org/ip/) — a four-month educational initiative that introduces students to the landscape of medical device development with mentorship and workshops.
 
-![Induction photo](/projects/medtechIPphotos/induction.jpg)
+![Induction photo](/projects/medtechIPfiles/induction.jpg)
 
 At the start of the programme, we were presented with a series of real-world clinical challenges from practising clinicians, each with rich context and unmet needs. Our options included:
 * **CSF diagnostics**: designing low-cost, portable tools to improve access and accelerate diagnosis of meningitis in resource-limited settings
 * **Intraoperative neuronavigation tools**: developing affordable technology to help surgeons navigate the brain safely and accurately during surgery
 * **Cannulation**: creating point-of-care guidance systems to improve success rates in cannulation procedures
 
-I chose to work on the CSF diagnostics project, and was placed in a multidisciplinary team combining expertise from medicine, engineering, and business. With support from our facilitator and clinical, technical, and business mentors, we were given the freedom to define our own approach to tackling the problem - an experience that was both challenging and immensely rewarding.
+I chose to work on the CSF diagnostics project, and was placed in a multidisciplinary team combining expertise from medicine, engineering, and business. With support from our facilitator and clinical, technical, and business mentors, we were given the freedom to define our own approach to tackling the problem - an experience that was both challenging and immensely rewarding. For more information on the format, take a look at our [MedTech IP 2025-26 Booklet](/projects/medtechIPfiles/IPBooklet.pdf)!
 
 # A Four-Month Journey
 
@@ -37,7 +37,7 @@ This session focused on how to identify and evaluate unmet clinical needs, asses
 
 We explored the investor mindset, delving into the due diligence process and analysing key dimensions such as customer and market fit, product feasibility, team dynamics, financial sustainability, and risk assessment.
 
-![Workshop 1 photo](/projects/medtechIPphotos/workshop1.jpg)
+![Workshop 1 photo](/projects/medtechIPfiles/workshop1.jpg)
 
 ### Workshop 2: Concept Generation
 Led by: Clinical Engineering Innovation (Cambridge University Hospitals) & Professor Andrew Grace
@@ -49,21 +49,21 @@ Led by: Andrew Hatcher, Cambridge Judge Business School
 
 In this session, we were introduced to the Business Model Canvas - a strategic framework for mapping out how an idea can deliver and capture value. It helped us visualise the commercial sustainability of our concept while ensuring it remained clinically meaningful and patient-focused.
 
-![Workshop 3 photo](/projects/medtechIPphotos/workshop3.jpg)
+![Workshop 3 photo](/projects/medtechIPfiles/workshop3.jpg)
 
 ### Workshop 4: From Concept to Product
 Led by: Dr Anita Marguerie de Rotrou (Office for Translational Research), Team Consulting, and Anna Davies (Cambridge Enterprise)
 
 This session explored the journey from initial concept to approved medical device, covering key aspects such as regulatory strategy, prototyping, and intellectual property management. Through insights from industry and translational experts, we gained a clearer understanding of the real-world pathway that transforms innovation into clinical application.
 
-![Workshop 4 photo](/projects/medtechIPphotos/workshop4.jpg)
+![Workshop 4 photo](/projects/medtechIPfiles/workshop4.jpg)
 
 ### Workshop 5: How to Pitch
 Led by: Simon Hall, Communications Expert and Course Leader at the University of Cambridge
 
 In the final session, we learned how to communicate complex technical ideas with clarity and impact — a vital skill for pitching innovations to investors, clinicians, and other stakeholders. Simon shared practical techniques to craft compelling narratives, structure persuasive presentations, and deliver them with confidence.
 
-![Workshop 5 photo](/projects/medtechIPphotos/workshop5.jpg)
+![Workshop 5 photo](/projects/medtechIPfiles/workshop5.jpg)
 
 # Mentorship and Deliverables
 
@@ -76,7 +76,7 @@ Our mentors included:
 * Vic Xiao – Team Facilitator, who ensured our workflow remained focused, collaborative, and well-structured.
 * Yuqing (Clara) Chen – IP Director, who provided insights into intellectual property management and protection.
 
-![Pitching photo](/projects/medtechIPphotos/pitchpresentation.jpg)
+![Pitching photo](/projects/medtechIPfiles/pitchpresentation.jpg)
 
 The pitch presentation was a particularly rewarding experience - an opportunity to bring together everything we’d learned and communicate our concept to experts in MedTech, entrepreneurship, and healthcare innovation.
 
@@ -86,4 +86,4 @@ At first, I expected the programme to provide a general overview of MedTech - bu
 
 It also gave me a deeper appreciation for how clinical insight becomes scalable innovation when design, regulation, and business strategy align. Above all, it reinforced that true innovation lies not in technology itself, but in its ability to improve patient outcomes.
 
-![Team photo](/projects/medtechIPphotos/teamphoto.jpg)
+![Team photo](/projects/medtechIPfiles/teamphoto.jpg)
