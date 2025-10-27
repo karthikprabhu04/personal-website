@@ -11,17 +11,27 @@ cover:
 --- 
 # My Experience in the MedTech Foundation Innovation Programme
 
+After attending several MedTech and biotech conferences, hackathons, and workshops, I came to realise that truly understanding the field requires going beyond surface-level exposure - it means going deep into a specific clinical problem and exploring how technology can solve it.
 
-This year, I completed the Cambridge MedTech Foundation Innovation Programme, a 4-month educational programme providing both an introduction to the landscape of medical device development and to inter-disciplinary teamwork
+To gain that experience, I applied to the [Cambridge MedTech Foundation Innovation Programme](https://cam.medtechfoundation.org/ip/) — a four-month educational initiative that introduces students to the landscape of medical device development with mentorship and workshops.
 
-Our team focused on developing a portable CSF diagnostic device designed to count immune cells and support diagnosis in low- and middle-income countries (LMICs). The motivation behind this project was simple — to make cerebrospinal fluid analysis more accessible in places where laboratory infrastructure and trained personnel are limited (e.g. Central Africa).
+At the start of the programme, we were presented with a series of real-world clinical challenges from practising clinicians, each with rich context and unmet needs. Our options included:
+* **CSF diagnostics**: designing low-cost, portable tools to improve access and accelerate diagnosis of meningitis in resource-limited settings
+* **Intraoperative neuronavigation tools**: developing affordable technology to help surgeons navigate the brain safely and accurately during surgery
+* **Cannulation**: creating point-of-care guidance systems to improve success rates in cannulation procedures
+
+I chose to work on the CSF diagnostics project, and was placed in a multidisciplinary team combining expertise from medicine, engineering, and business. With support from our facilitator and clinical, technical, and business mentors, we were given the freedom to define our own approach to tackling the problem - an experience that was both challenging and immensely rewarding.
 
 # A Four-Month Journey
 
-Over four months, we went through a structured programme of workshops, mentorship, and deliverables that guided us through every step of the MedTech innovation process. Each session introduced a new layer of understanding — from identifying clinical needs to building a viable business case.
+We began the project by establishing a team working contract, defining our roles and expectations for effective collaboration by reducing task conflicts. From there, we progressed through a structured sequence of workshops that supported us as we developed our project deliverables - starting with an abstract outlining our proposed solution, followed by a 1500-word executive summary, and finally a pitch deck presented to a panel of judges.
+
+Over the course of four months, we took part in a comprehensive programme of workshops, mentorship, and milestone submissions that guided us through every stage of the MedTech innovation process. Each session added a new layer of insight - from identifying clinical needs and designing solutions, to evaluating feasibility and building a viable business case.
 
 ### Workshop 1: Opportunity Evaluation
-Led by Andrew Hatcher from the Judge Business School, this session taught us how to identify and evaluate unmet clinical needs, assess feasibility, and define value propositions — essentially the foundation of innovation in healthcare.
+Led by Andrew Hatcher from the Judge Business School, this session taught us how to identify and evaluate unmet clinical needs, assess feasibility, and define value propositions - essentially the foundation of innovation in healthcare.
+
+![Opportunity Evaluation Picture](/projects/medtechIPphotos/workshop1.jpg)
 
 ### Workshop 2: Concept Generation
 We learned about how ideas evolve within real clinical environments. Clinical Engineering Innovation at Cambridge University Hospitals and Professor Andrew Grace shared how unmet needs become viable projects through interdisciplinary collaboration.
