@@ -15,6 +15,8 @@ After attending several MedTech and biotech conferences, hackathons, and worksho
 
 To gain that experience, I applied to the [Cambridge MedTech Foundation Innovation Programme](https://cam.medtechfoundation.org/ip/) — a four-month educational initiative that introduces students to the landscape of medical device development with mentorship and workshops.
 
+![Induction photo](/projects/medtechIPphotos/induction.jpg)
+
 At the start of the programme, we were presented with a series of real-world clinical challenges from practising clinicians, each with rich context and unmet needs. Our options included:
 * **CSF diagnostics**: designing low-cost, portable tools to improve access and accelerate diagnosis of meningitis in resource-limited settings
 * **Intraoperative neuronavigation tools**: developing affordable technology to help surgeons navigate the brain safely and accurately during surgery
@@ -29,29 +31,52 @@ We began the project by establishing a team working contract, defining our roles
 Over the course of four months, we took part in a comprehensive programme of workshops, mentorship, and milestone submissions that guided us through every stage of the MedTech innovation process. Each session added a new layer of insight - from identifying clinical needs and designing solutions, to evaluating feasibility and building a viable business case.
 
 ### Workshop 1: Opportunity Evaluation
-Led by Andrew Hatcher from the Judge Business School, this session taught us how to identify and evaluate unmet clinical needs, assess feasibility, and define value propositions - essentially the foundation of innovation in healthcare.
+Led by: Andrew Hatcher, Cambridge Judge Business School
 
-![Opportunity Evaluation Picture](/projects/medtechIPphotos/workshop1.jpg)
+This session focused on how to identify and evaluate unmet clinical needs, assess feasibility, and define clear value propositions — forming the foundation of successful healthcare innovation.
+
+We explored the investor mindset, delving into the due diligence process and analysing key dimensions such as customer and market fit, product feasibility, team dynamics, financial sustainability, and risk assessment.
+
+![Workshop 1 photo](/projects/medtechIPphotos/workshop1.jpg)
 
 ### Workshop 2: Concept Generation
-We learned about how ideas evolve within real clinical environments. Clinical Engineering Innovation at Cambridge University Hospitals and Professor Andrew Grace shared how unmet needs become viable projects through interdisciplinary collaboration.
+Led by: Clinical Engineering Innovation (Cambridge University Hospitals) & Professor Andrew Grace
+
+This session explored how ideas evolve within real clinical environments, highlighting the process of transforming unmet clinical needs into viable innovation projects. We gained insight into how interdisciplinary collaboration between clinicians, engineers, and entrepreneurs drives the development of impactful MedTech solutions.
 
 ### Workshop 3: Business Model Canvas
-Returning again, Andrew Hatcher introduced the Business Model Canvas — a strategic tool that helped us visualise how our idea could sustain itself commercially while maintaining clinical value.
+Led by: Andrew Hatcher, Cambridge Judge Business School
+
+In this session, we were introduced to the Business Model Canvas - a strategic framework for mapping out how an idea can deliver and capture value. It helped us visualise the commercial sustainability of our concept while ensuring it remained clinically meaningful and patient-focused.
+
+![Workshop 3 photo](/projects/medtechIPphotos/workshop3.jpg)
 
 ### Workshop 4: From Concept to Product
-This session delved into regulatory strategy, prototyping, and intellectual property. Talks from Dr Anita Marguerie de Rotrou (Office for Translational Research), Team Consulting, and Anna Davies (Cambridge Enterprise) helped us understand the real-world pathway from idea to approved medical device.
+Led by: Dr Anita Marguerie de Rotrou (Office for Translational Research), Team Consulting, and Anna Davies (Cambridge Enterprise)
+
+This session explored the journey from initial concept to approved medical device, covering key aspects such as regulatory strategy, prototyping, and intellectual property management. Through insights from industry and translational experts, we gained a clearer understanding of the real-world pathway that transforms innovation into clinical application.
+
+![Workshop 4 photo](/projects/medtechIPphotos/workshop4.jpg)
 
 ### Workshop 5: How to Pitch
-The final session with Simon Hall, communication expert and course leader at the University of Cambridge, taught us how to present complex technical concepts clearly and persuasively — a crucial skill for pitching innovations to investors and stakeholders.
+Led by: Simon Hall, Communications Expert and Course Leader at the University of Cambridge
+
+In the final session, we learned how to communicate complex technical ideas with clarity and impact — a vital skill for pitching innovations to investors, clinicians, and other stakeholders. Simon shared practical techniques to craft compelling narratives, structure persuasive presentations, and deliver them with confidence.
+
+![Workshop 5 photo](/projects/medtechIPphotos/workshop5.jpg)
 
 # Mentorship and Deliverables
 
-Throughout the programme, our progress was supported by mentors from clinical, technical, and business backgrounds. Their insights were invaluable in helping us refine our device concept and ensure it addressed a genuine clinical need. We produced a working contract, abstract, executive summary, and a pitch deck, which we presented to a panel of judges within Cambridge’s innovation ecosystem. Our mentors included:
-* Dr Sara Venturini – Clinical Mentor, who guided us in refining the medical relevance and diagnostic feasibility of our device.
-*  Richard Armstrong-Wood – Technical Mentor, who advised on engineering design, functionality, and practical implementation.
-* Harry Bullimore (Vox) – Business Mentor, who helped us strengthen our commercial strategy and understand market positioning.
+Throughout the programme, our progress was supported by mentors from clinical, technical, and business backgrounds, whose guidance was invaluable in refining our device concept and ensuring it addressed a genuine clinical need.
+
+Our mentors included:
+* Dr Sara Venturini – Clinical Mentor (Specialty Registrar in Neurosurgery, Cambridge University Hospitals NHS Foundation Trust), who advised on the medical relevance and diagnostic feasibility of our device.
+* Richard Armstrong-Wood – Technical Mentor (Design and Innovation Engineer, Department of Engineering, University of Cambridge), who guided us on engineering design, functionality, and practical implementation.
+* Harry Bullimore – Business Mentor (Senior Research Executive, Vox.Bio), who helped us strengthen our commercial strategy and understand market positioning.
 * Vic Xiao – Team Facilitator, who ensured our workflow remained focused, collaborative, and well-structured.
+* Yuqing (Clara) Chen – IP Director, who provided insights into intellectual property management and protection.
+
+![Pitching photo](/projects/medtechIPphotos/pitchpresentation.jpg)
 
 The pitch presentation was a particularly rewarding experience - an opportunity to bring together everything we’d learned and communicate our concept to experts in MedTech, entrepreneurship, and healthcare innovation.
 
@@ -59,4 +84,6 @@ The pitch presentation was a particularly rewarding experience - an opportunity 
 
 At first, I expected the programme to provide a general overview of MedTech - but it turned out to be far more useful. It offered a clear framework for how healthcare innovations are conceived, validated, and developed, showing me how to bridge the gap between clinical practice and product design through collaboration between medicine, engineering, and business.
 
-It also gave me a deeper appreciation for how clinical insight becomes scalable innovation when design, regulation, and business strategy align. More than anything, it taught me that meaningful innovation isn’t just about new technology - it’s about creating change that truly improves patient care.
+It also gave me a deeper appreciation for how clinical insight becomes scalable innovation when design, regulation, and business strategy align. Above all, it reinforced that true innovation lies not in technology itself, but in its ability to improve patient outcomes.
+
+![Team photo](/projects/medtechIPphotos/teamphoto.jpg)
