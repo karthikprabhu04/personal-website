@@ -9,7 +9,6 @@ weight: 303
 cover:
     image: "experience/cs50x-harvard.png"
 --- 
-# Harvard’s CS50x: Foundations of Computer Science
 
 Of all computer science courses, [**Harvard’s CS50x**](https://cs50.harvard.edu/x/) has always seemed to be the gold standard for understanding what’s *really* happening under the hood.
 
@@ -43,9 +42,8 @@ What makes CS50x unique is its **hands-on design**. It provides a dedicated codi
 
 **Week 10 - Final Project:** A synthesis of everything learned. My final project was an [**AI-powered lecture summariser**](https://github.com/karthikprabhu04/harvard-cs50x-final-project) - open-source, private (runs locally), and slower as a trade-off for data privacy.
 
-[Link to YouTube video]
 
-## Reflections
+## Final Remarks
 
 CS50x is challenging, but deeply rewarding. It’s less about memorising syntax and more about **learning how to think** - a skill that transcends computer science.
 
