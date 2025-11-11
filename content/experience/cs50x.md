@@ -22,23 +22,23 @@ What makes CS50x unique is its **hands-on design**. It provides a dedicated codi
 
 **Week 0 - Scratch:** A visual reintroduction to programming logic, binary, ASCII, and pseudocode - a reminder of how much we take for granted once we start coding.
 
-**Week 1 - C:** A leap into low-level programming. You learn how source code compiles to machine code and why correctness, design, and style matter.
+**Week 1 - C:** Quite a jump from Scratch into low-level programming. You learn how source code compiles to machine code and why correctness, design, and style matter.
 
 **Week 2 - Arrays:** Builds on C, introducing arrays, memory allocation, debugging, and how data is represented in memory.
 
 **Week 3 - Algorithms:** Covers core search and sort algorithms, Big O notation, and recursion - the foundation of computational efficiency.
 
-**Week 4 - Memory:** One of the toughest but most eye-opening weeks. You explore pointers, dynamic memory allocation, and why understanding these concepts prevents real-world system failures (like the CrowdStrike case).
+**Week 4 - Memory:** I found this one of the toughest but most eye-opening weeks. You explore pointers, dynamic memory allocation, and why understanding these concepts prevents real-world system failures (like the CrowdStrike case).
 
 **Week 5 - Data Structures:** Introduces queues, stacks, linked lists, trees, hash tables, and time complexity - the architecture of software.
 
 **Week 6 - Python:** A relief after C. You move into a higher-level language, seeing how abstraction makes development faster but less transparent.
 
-**Week 7 - SQL:** Teaches data management - from relationships and joins to race conditions and SQL injections.
+**Week 7 - SQL:** Teaches database management - from relationships and joins to race conditions and SQL injections.
 
-**Week 8 - HTML, CSS, JavaScript:** Introduces web programming and internet infrastructure - DNS, HTTP, ports, and developer tools.
+**Week 8 - HTML, CSS, JavaScript:** Introduces web programming and internet infrastructure to see how everything really works - DNS, HTTP, ports, and developer tools.
 
-**Week 9 - Flask:** A gateway to full-stack development. You build web apps using Flask, APIs, and JSON, guided by the MVC framework.
+**Week 9 - Flask:** A gateway to full-stack development. This section teaches you to build web apps using Flask, APIs, and JSON, guided by the MVC framework.
 
 **Week 10 - Final Project:** A synthesis of everything learned. My final project was an [**AI-powered lecture summariser**](https://github.com/karthikprabhu04/harvard-cs50x-final-project) - open-source, private (runs locally), and slower as a trade-off for data privacy.
 
