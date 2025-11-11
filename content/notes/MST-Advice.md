@@ -91,4 +91,4 @@ Real-world team project of 3-4 of you with an external client. The JBS tends to 
 
 # 3. Final Remarks
 
-MST offers a extremely good opportunity to join the unique ecosystem of The Judge Business School,  at an economical cost of £9k for one year compared to the £70k MBA course which in facts uses similar content from MST (e.g. negotiations workshop). Make use of it’s resources, talks, and alumni network.
+MST offers a extremely good opportunity to join the unique ecosystem of The Judge Business School,  at an economical cost of £9k for one year compared to the £70k MBA course which in facts uses similar content from MST (e.g. negotiations workshop). Make use of it’s resources, talks, and [alumni network](https://www.jbs.cam.ac.uk/alumni/).
