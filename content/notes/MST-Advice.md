@@ -50,7 +50,7 @@ Ideal to pivot into consulting or finance, or just broaden your worldview. A com
 - *Future of Work* — Great for those interested in tech, HR, and organisational design.
 - Strategic management - How brands are built. An elective that rewards creativity and original thought.
 - Macroeconomics - Understanding how the world works. Tends to be quite popular as [Kamiar](https://www.jbs.cam.ac.uk/people/kamiar-mohaddes/) is a really engaging professor.
-- Corporate finance - A deeper understanding of financials. A difficult but rewarding course, especilly useful if you’re going into investment banking or simliar areas.
+- Corporate finance - A deeper understanding of financials. A difficult course with lots of assigments as the lecturer really pushes you, but it's a rewarding course, especially useful if you’re going into investment banking or similar areas.
 
 **Negotiations Lab:**
 
