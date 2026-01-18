@@ -12,4 +12,6 @@ cover:
 
 # Zero to One
 
-![Zero To One image](/notes/ZeroToOne.jpg)
+<img src="/notes/ZeroToOne.jpg" alt="Zero To One image" width="50%">
+
+# The Lean Startup
