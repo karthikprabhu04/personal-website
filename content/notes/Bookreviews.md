@@ -2,7 +2,7 @@
 title: "Book reviews"
 description: "Thoughts"
 dateString: 16th September
-draft: false
+draft: true
 tags: ["featured"]
 showToc: false
 weight: 101
