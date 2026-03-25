@@ -2,7 +2,7 @@
 title: "Management Studies"
 description: "Cambridge Judge Business School"
 dateString: October 2024 - July 2025
-draft: false
+draft: true
 tags: ["Management"]
 showToc: false
 weight: 303
