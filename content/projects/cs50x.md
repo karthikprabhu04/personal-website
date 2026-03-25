@@ -1,7 +1,7 @@
 ---
 title: "Reflections from Harvard’s CS50x: Foundations of Computer Science"
 description: "Lessons on logic, systems, and thinking - beyond just writing code"
-dateString: March 2025 - May 2025"
+dateString: Mar 2025 - May 2025
 draft: false
 tags: ["Software engineering"]
 showToc: false

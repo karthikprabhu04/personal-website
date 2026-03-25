@@ -1,7 +1,7 @@
 ---
 title: "Advice for Management Studies Tripos (MST)"
 description: "How to navigate the course and perform well in exams"
-dateString: 11th November
+dateString: 11th Nov 2025
 draft: false
 tags: ["Management"]
 showToc: false

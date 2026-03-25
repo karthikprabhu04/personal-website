@@ -1,7 +1,7 @@
 ---
 title: "How I’m self-learning Software Engineering & AI/ML"
 description: "Harvard CS50, The Odin Project, Kaggle"
-dateString: 16th September
+dateString: 16th Sep 2025
 draft: false
 tags: ["featured"]
 showToc: false

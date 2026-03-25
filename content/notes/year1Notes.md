@@ -1,7 +1,7 @@
 ---
 title: "Cambridge Medicine"
 description: "General Advice"
-dateString: 12th August
+dateString: 12th August 2025
 draft: false
 tags: ["featured"]
 showToc: false

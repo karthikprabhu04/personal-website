@@ -1,7 +1,7 @@
 ---
 title: "MedTech Innovation Program"
 description: "Designing low-cost, bedside cerebrospinal fluid (CSF) diagnostic devices"
-dateString: Nov 2024 - March 2025
+dateString: Nov 2024 - Mar 2025
 draft: false
 tags: ["MedTech"]
 showToc: false
