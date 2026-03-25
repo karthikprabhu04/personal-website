@@ -49,7 +49,7 @@ params:
   profileMode:
     enabled: true
     title: "Karthik Prabhu"
-    subtitle: Hi 👋 I’m Karthik, a 4th-year medical student at Cambridge. I’ve shared some of my thoughts and experiences here - hope you find them useful, and feel free to connect through my socials below! :)
+    subtitle: Hi 👋 I’m Karthik, a 4th-year medical student at Cambridge. I’ve shared some of my thoughts and experiences here - hope you find them useful :)
  
     imageUrl: "home/formalPhoto.jpg"
     imageWidth: 220
