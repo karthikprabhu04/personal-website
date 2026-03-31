@@ -32,7 +32,6 @@ Pros:
 Cons:
 
 - It can start to feel a bit meaningless after a few months (e.g. spending a lot of time making PowerPoint slides), though this might partly be because medicine sets quite a high bar for seeing tangible impact.
-- It can start to feel a bit meaningless after a few months (e.g. spending a lot of time making PowerPoint slides), though this might partly be because medicine sets quite a high bar for seeing tangible impact.
 - If a non-medic taking it in your 4th year, can incur an additional 9k tuition costs (or higher if an  international).
 - Sometimes it can feel more of a tick-box course to show you went to business school for humanities students to boomerang into consulting.
 
