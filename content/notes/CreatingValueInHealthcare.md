@@ -8,7 +8,7 @@ showToc: false
 weight: 101
 ---
 
-# **“What specialty are you going into?”**
+## **“What specialty are you going into?”**
 
 I'm often asked this question as a medical student.
 
@@ -16,7 +16,7 @@ It is a reasonable one, but an incomplete one. It assumes that the central caree
 
 A more fundamental question is therefore:
 
-# **“How can you create value in healthcare?”**
+## **“How can you create value in healthcare?”**
 
 Clinical medicine remains one of the most meaningful ways to do this. A doctor can create deep value for individual patients through diagnosis, treatment, judgement, and trust. This is the foundation of medicine and the source of its moral seriousness. But the reach of clinical work is often constrained by time: one clinician can only see so many patients, make so many decisions, and operate within so many systems.
 
