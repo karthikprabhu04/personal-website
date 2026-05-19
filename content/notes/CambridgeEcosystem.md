@@ -3,7 +3,6 @@ title: "The Cambridge Entreprenurial Ecosystem"
 description: "Explore innovation, building ventures, and creating lasting impact"
 dateString: 16th Sep 2025
 draft: false
-tags: ["featured"]
 showToc: false
 weight: 101
 cover:
