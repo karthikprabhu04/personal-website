@@ -8,7 +8,7 @@ showToc: false
 weight: 101
 ---
 
-# The Emergency Department (December 2025)
+# The Emergency Department
 
 The patient died.
 
