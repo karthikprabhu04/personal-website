@@ -43,3 +43,5 @@ A few questions I regularly return to for clarity and introspection are:
 - What would you do if you had 10 years left to live?
 - What goals are yours, and not from status or prestige?
 - What is the highest-leverage thing you can do right now?
+
+The fear of death may be the most fundamental of all fears, underpinning many of the others (failure, rejection, embarrassment, uncertainty). Yet contemplating mortality offers a surprisingly powerful decision-making heuristic: if time is finite, what choice will matter most in the long run?
