@@ -20,7 +20,7 @@ Consider a patient who is ill. Medicine's immediate goal is to restore their hea
 
 Together, these pathways extend medicine beyond the doctor–patient interaction to form a healthcare system.
 
-![Pathways in Medicine](notes/MedicinePathways.png)
+![Pathways in Medicine](/notes/medicinepathways.png)
 
 # The Future of the Doctor
 
@@ -96,7 +96,7 @@ Most systems optimise for only two:
 - **Private systems (e.g. US)** → effective and fast, but expensive
 - **Hybrid systems (e.g. India)** → fast and affordable, but less consistently effective
 
-![Healthcare Trade-Offs](notes/HealthcareTradeOffs.png)
+![Healthcare Trade-Offs](/notes/healthcaretradeoffs.png)
 
 The question is whether all three can be achieved simultaneously. Advances in software and AI create a new possibility: a fully autonomous healthcare system.
 
