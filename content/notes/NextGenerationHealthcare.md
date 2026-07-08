@@ -143,7 +143,7 @@ Health has always been fundamental to humanity; everything else depends on it. A
 
 [2] My Director of Studies at Cambridge encouraged me to consider pursuing a role such as Health Secretary. However, I believe technology will be the greater driver of healthcare transformation over the coming decades, with policy playing a more enabling and stabilising role.
 
-[3] As Academic Officer of the Cambridge Clinical Students’ Society, I aim to encourage lateral thinking about medical careers and less siloing on traditional pathways. As the world changes, impact will increasingly come from interdisciplinary and non-linear paths - reinforcing the idea that “medicine is the floor, not the ceiling”. More thoughts here: LINK
+[3] As Academic Officer of the Cambridge Clinical Students’ Society, I aim to encourage lateral thinking about medical careers and less siloing on traditional pathways. As the world changes, impact will increasingly come from interdisciplinary and non-linear paths - reinforcing the idea that “medicine is the floor, not the ceiling”. More thoughts here: https://karthikprabhu.me/notes/creatingvalueinhealthcare/
 
 Historically at Cambridge, the highest-performing pre-clinical student was reportedly discouraged from progressing into medicine, based on the belief that humanity would gain orders-of-magnitude greater value from their scientific contributions than from conventional clinical practice. While this no longer applies (mainly for legal reasons), the underlying principle remains relevant: research and technology can create impact far beyond the limits of individual clinical practice.
 
