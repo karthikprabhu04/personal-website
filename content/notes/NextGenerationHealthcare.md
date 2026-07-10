@@ -33,7 +33,7 @@ The next generation of healthcare leaders will not rely on clinical medicine alo
 - **Research** → advancing knowledge
 - **Policy** → shaping systems
 
-Technical and media pathways offer exceptional leverage because digital tools and information can be replicated at near-zero marginal costs and scale globally. While building software or an audience requires significant effort, a single product or idea can reach millions - far beyond the impact of any individual clinician. This is why doctors such as [**Ali Abdaal**](https://aliabdaal.com/) have explored careers beyond traditional clinical practice.
+Technical and media pathways offer exceptional leverage because digital tools and information can be replicated at near-zero marginal costs and scale globally. While building software or an audience requires significant effort, a single product or idea can reach millions - far beyond the impact of any individual clinician. This is why doctors such as [Ali Abdaal](https://aliabdaal.com/) have explored careers beyond traditional clinical practice.
 
 Information itself has become one of humanity's most powerful assets. For thousands of years, from early manuscripts (~3000 BCE) to books, knowledge spread slowly amongst the elites limited by high costs of manual replication. The printing press democratised access in 1440, while the internet reduced the marginal cost of replication to zero following the creation of the World Wide Web in 1991. As information became easier to replicate and distribute, its ability to shape society increases dramatically across all industries. Healthcare is no exception.
 
